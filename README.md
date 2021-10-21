@@ -1,7 +1,7 @@
 ### Hi there, I'm Mohit - aka [mohit-08-tech][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://webmohit.netlify.app/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=mohitkumar078)
+[![Website](https://img.shields.io/website?label=webmohit.netlify.app&style=for-the-badge&url=https%3A%2F%2Fwebmohit.netlify.app)](https://webmohit.netlify.app/)
+[![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmohitkumar078)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=mohitkumar078)
 
 ## I'm a Student, Developer, and Gamer!!
 
