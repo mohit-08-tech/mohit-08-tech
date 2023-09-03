@@ -1,58 +1,121 @@
-### Hi there, I'm Mohit - aka [mohit-08-tech][website] 👋
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
-[![Website](https://img.shields.io/website?label=webmohit.netlify.app&style=for-the-badge&url=https%3A%2F%2Fwebmohit.netlify.app)](https://webmohit.netlify.app/)
-[![Twitter Follow](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmohitkumar078)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=mohitkumar078)
+###
 
-## I'm a Student, Developer, and Gamer!!
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohitkuma/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/_mohit007/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://twitter.com/_Mohit07" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="http://discordapp.com/users/929670789240864799" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://t.me/MoHiTk08" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="https://webmohit.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
+  </a>
+</div>
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I'm working with HCL Technologies as a Software Engineer aka Developer.
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play video games, sports and travelling.
+###
 
-### Connect with me:
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohit-08-tech.mohit-08-tech&"  />
+</div>
 
-[<img align="left" alt="https://webmohit.netlify.app.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="mohitkumar078 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="linkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ig | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Codepen | CodePen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
+###
 
-<br />
+<h1 align="center">Hi👋, I'm<br>Mohit Kumar</h1>
 
-### Languages and Tools:
+###
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="AngularJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
+<h2 align="center">👩‍💻  About Me</h2>
 
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+###
 
-<br />
-<br />
+<p align="left">🙎‍♂️Pronouns: He/HIm</p>
 
----
+###
 
-<details>
-  <summary>:zap: Some GitHub Repos Samples</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Uploaded on [#1](https://github.com/mohit-08-tech/AdvanceJsFromValidation) in [mohit-08-tech/AdvanceJsFromValidation](https://github.com/mohit-08-tech/AdvanceJsFromValidation)
-2. ❗️ Uploaded on [#1](https://github.com/mohit-08-tech/sendWhatsappMsgWithoutSavingContact) in [mohit-08-tech/sendWhatsappMsgWithoutSavingContact](https://github.com/mohit-08-tech/sendWhatsappMsgWithoutSavingContact)
-3. ❌  Uploaded on  [#1](https://github.com/mohit-08-tech/BirthdayAnimation-HTML-CSS-JS) in [mohit-08-tech/BirthdayAnimation-HTML-CSS-JS](https://github.com/mohit-08-tech/BirthdayAnimation-HTML-CSS-JS)
-4. 🗣  Uploaded on  [#1](https://github.com/mohit-08-tech/3DHoverCard) in [mohit-08-tech/3DHoverCard](https://github.com/mohit-08-tech/3DHoverCard)
-5. 🎉  Uploaded on  [#1](https://github.com/mohit-08-tech/Image-Upload-Preview) in [mohit-08-tech/Image-Upload-Preview](https://github.com/mohit-08-tech/Image-Upload-Preview)
-<!--END_SECTION:activity-->
+<h3 align="left">I'm a .NET Developer, a frontend developer, and a tech enthusiast 🧑‍💻</h3>
 
-</details>
+###
 
-[website]: https://webmohit.netlify.app/
-[twitter]: https://twitter.com/mohitkumar078
-[instagram]: https://instagram.com/_mohit007
-[linkedin]: https://www.linkedin.com/in/mohit-kumar-37b288178/https://codepen.io/mohit-08-tech
-[codepen]: https://codepen.io/mohit-08-tech
+<p align="left">- 🏢 I'm currently working as Software Engineer @HCL Tech.<br><br>- 🧑‍🎓I'm currently a BITS Scholar<br><br>- ✌️Enthusiast to  learn new technologies<br><br>-⚡ Fun fact: I love to play video games, sports and travelling.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+<p align="left">Some Of My Github Respos:<br><br>1. 🔥 Knowledge Base Interface - https://github.com/mohit-08-tech/KnowledgeBaseInterface<br><br>2. 📲Sending Whatsapp messages using API - https://github.com/mohit-08-tech/sendWhatsappMsgWithoutSavingContact<br><br>3. 📷Image Upload Preview - https://github.com/mohit-08-tech/Image-Upload-Preview<br><br>- 🎈You can find it more @ https://github.com/mohit-08-tech?tab=repositories</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohit-08-tech&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit-08-tech&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mohit-08-tech&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/mohit-08-tech/mohit-08-tech/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/mohitkuma/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/_Mohit07" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="http://discordapp.com/users/929670789240864799" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://codepen.io/mohit-08-tech" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+  </a>
+  <a href="https://www.instagram.com/_mohit007/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://t.me/MoHiTk08" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+</div>
+
+###
