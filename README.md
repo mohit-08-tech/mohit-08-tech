@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">- 🏢 I'm currently working as Software Engineer @HCL Tech.<br><br>- 🧑‍🎓I'm currently a BITS Scholar<br><br>- ✌️Enthusiast to  learn new technologies<br><br>-⚡ Fun fact: I love to play video games 🎮, cricket 🏏, and wandering around 🚶‍♂️</p>
+<p align="left">- 🏢 I'm currently working as Software Engineer @Keyloop India<br><br>- ✌️Enthusiast to  learn new technologies<br><br>-⚡ Fun fact: I love to play video games 🎮, cricket 🏏, and wandering around 🚶‍♂️</p>
 
 ###
 
